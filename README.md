@@ -9,7 +9,7 @@ Keil uVision 5: Keil uVision is an integrated development environment (IDE) for 
 ##Functionalities:<br>
 
 UART Communication Protocol: The bootloader project implements a UART communication protocol to communicate with a host computer. The host is controlled by a Python script that supervises the entire process.<br>
-CRC Algorithm for Error Handling: To ensure data integrity, the project employs a CRC (Cyclic Redundancy Check) algorithm for error handling. The CRC is computed and checked to verify data integrity during communication.<br>
+<br>CRC Algorithm for Error Handling: To ensure data integrity, the project employs a CRC (Cyclic Redundancy Check) algorithm for error handling. The CRC is computed and checked to verify data integrity during communication.<br>
 
 ##Features:<br>
 
